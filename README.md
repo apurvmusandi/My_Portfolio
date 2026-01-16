@@ -7,7 +7,7 @@ Designed with a unique **terminal-style boot screen**, smooth animations, and a 
 
 ## 🚀 Live Website
 🔗 **Portfolio Link:**  
-https://apurmusandi.github.io/My_Portfolio/
+https://apurvmusandi.github.io/My_Portfolio/
 
 ---
 
